@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stephensu66
-- 👀 I’m interested in frontend technology.
+- 👀 I’m interested in full-stack technology inclduing react, node, express, python.
 - 🌱 I’m currently learning AI technology.
 - 📫 You can reach me by stephen.su66@gmail.com
 - 😄 Pronouns: He/Him
